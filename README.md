@@ -58,7 +58,9 @@ To load environment variables from a `.env` file in PowerShell, you should use t
    ```powershell
    . .\.env
    ```
-
+   ```MacOs
+   . source.env
+   ```
 The dot (`.`) followed by a space and then the file path will execute the file in the current shell, setting the environment variables.
 
 load your AWS credentials correctly.
