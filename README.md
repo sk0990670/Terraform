@@ -100,3 +100,15 @@ terraform apply      # Apply the plan and deploy the infrastructure
 ```
 
 By following this sequence, you will successfully set up your infrastructure using Terraform.
+
+Yes, the website I shared is the official Terraform Registry documentation for the **AWS provider**:
+
+[https://registry.terraform.io/providers/hashicorp/aws/latest/docs](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
+
+This site contains comprehensive documentation for using AWS services with Terraform. It includes details on:
+- **Provider Configuration**: How to configure the AWS provider.
+- **Resources**: Information on different AWS resources (like EC2, S3, IAM, etc.).
+- **Data Sources**: How to use existing resources in your AWS account.
+- **Examples**: Code snippets to help you create AWS infrastructure.
+
+It’s a great resource for looking up specifics on Terraform AWS modules and configuration options.
